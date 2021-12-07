@@ -1,0 +1,29 @@
+div{
+	font-size: 35px;
+	color: red;
+	background-color: none;
+}
+body{
+	background-size: 100% 100%;
+	background-attachment: fixed; 
+}
+h3{
+	color: white;
+}
+p.n1{
+	font-size: 18px;
+	color: yellow;
+	background-color: gray;
+	height: 180px;
+	width: 500px;
+}
+p.p1{
+	font-size: 18px;
+	color: white;
+	background-color: black;
+	height: 180px;
+	width: 500px;
+}
+h3.n2{
+	color: orange;
+}
